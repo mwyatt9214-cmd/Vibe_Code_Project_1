@@ -1,0 +1,21 @@
+# Web framework (uncomment what you use)
+# fastapi==0.115.0
+# uvicorn[standard]==0.32.0
+# flask==3.0.3
+
+# Database
+# sqlalchemy==2.0.36
+# alembic==1.13.3
+# psycopg2-binary==2.9.10
+# pymongo==4.10.1
+
+# HTTP client
+requests==2.32.3
+httpx==0.27.2
+
+# Data — versions compatible with Python 3.13
+pydantic==2.10.3
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
